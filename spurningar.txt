@@ -20,4 +20,4 @@ Hverjir eru helstu kostir við að nota GIT? - .þú getur uppfært verkefni eð
 
 Hversu oft telur þú að eigi að gera færslur (commit) í verkefni? - í hvert sinn sem að breytingin hefur áhrif á upplýsingar sem utanaðkomandi aðili myndi taka eftir.
 
-Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
+Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT? - working directory er mappan sem þú ert að hafa áhrif á. Staging Area eru skrárnar sem á eftir að uppfæra.
