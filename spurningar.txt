@@ -10,9 +10,9 @@ git status - sýnir stöðu skráa í möppunni
 git diff - sýnir munin á útgáfum
 
 Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
-git log
-git checkout
-git branch
+git log - sýnir lista yfir öllum útgáfum
+git checkout - leyfir þér að skoða eldri útgáfu
+git branch - býr til nýja grein / skiptir um grein
 
 Hvað er útgáfustýring (Version Control)?
 
