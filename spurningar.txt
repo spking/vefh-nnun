@@ -1,9 +1,9 @@
 Hvað gera eftirfarandi Linux skipanir?
-cd -
-ls -
-pwd -
-mkdir -
-
+cd - breyta um möppu
+ls - skoða allt í möppunni
+pwd - sýnir í hvaða möppu maður er
+mkdir - skapa möppu
+ 
 Hvað gera eftirfarandi Git skipanir?
 git clone
 git status
