@@ -16,7 +16,7 @@ git branch - býr til nýja grein / skiptir um grein
 
 Hvað er útgáfustýring (Version Control)? - forrit sem leyfir þér að sífellt uppfæra gagnageymslu eða forrit án þess að þurfa að hala öllum gögnunum niður í hvert sinn sem eitthvað breytist
 
-Hverjir eru helstu kostir við að nota GIT?
+Hverjir eru helstu kostir við að nota GIT? - .þú getur uppfært verkefni eða gagnagrunn snögglega og auðveldlega
 
 Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
 
