@@ -5,9 +5,9 @@ pwd - sýnir í hvaða möppu maður er
 mkdir - skapa möppu
  
 Hvað gera eftirfarandi Git skipanir?
-git clone
-git status
-git diff
+git clone - skapar eftirhermu af útgáfunni í annari grein
+git status - sýnir stöðu skráa í möppunni
+git diff - sýnir munin á útgáfum
 
 Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
 git log
