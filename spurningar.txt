@@ -18,6 +18,6 @@ Hvað er útgáfustýring (Version Control)? - forrit sem leyfir þér að sífe
 
 Hverjir eru helstu kostir við að nota GIT? - .þú getur uppfært verkefni eða gagnagrunn snögglega og auðveldlega
 
-Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+Hversu oft telur þú að eigi að gera færslur (commit) í verkefni? - í hvert sinn sem að breytingin hefur áhrif á upplýsingar sem utanaðkomandi aðili myndi taka eftir.
 
 Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
